@@ -1,4 +1,4 @@
- (˶ᵔ ᵕ ᵔ˶) Hi, I’m Priscilla! I'm a graduate software engineer at ANZ Plus, currently working in the cloud space. ☁️👩🏻‍💻
+ (˶ᵔ ᵕ ᵔ˶) Hi, I’m Priscilla! I'm a software engineer at ANZ, currently working as an Android developer on the goMoney app. 📲👩🏻‍💻
 
 <!---
 priscilla-if/priscilla-if is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
